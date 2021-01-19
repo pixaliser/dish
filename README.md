@@ -1,1 +1,2 @@
-# THIS is LSH translated to Rust
+# Dish
+Dynamic (I for nothing) Shell
